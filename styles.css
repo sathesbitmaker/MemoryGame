@@ -1,0 +1,19 @@
+.title {
+  text-align: center;
+  color: darkblue;
+  padding-bottom: -20px;
+}
+
+.photo {
+  height: 110px;
+  width: 110px;
+}
+
+.all {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.play {
+  float: right;
+}
